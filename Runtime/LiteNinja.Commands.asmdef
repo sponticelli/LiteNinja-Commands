@@ -1,0 +1,17 @@
+{
+    "name": "LiteNinja.Commands",
+    "rootNamespace": "",
+    "references": [
+        "LiteNinja.Injection",
+        "UniTask"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

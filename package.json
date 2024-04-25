@@ -1,0 +1,24 @@
+{
+  "name": "com.liteninja.comnands",
+  "version": "1.0.0",
+  "displayName": "LiteNinja Commands",
+  "description": "Command pattern for Unity3D",
+  "unity": "2022.1",
+  "documentationUrl": "https://github.com/sponticelli/LiteNinja-Commands/blob/main/README.md",
+  "changelogUrl": "https://github.com/sponticelli/LiteNinja-Commands/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/sponticelli/LiteNinja-Commands/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.liteninja.injection": "https://github.com/sponticelli/LiteNinja-Injection.git",
+    "com.cysharp.unitask": "2.5.4"
+  },
+  "keywords": [
+    "Command Pattern",
+    "Unity3D",
+    "Clean Code"
+  ],
+  "author": {
+    "name": "Sandro Ponticelli",
+    "email": "sandro.ponticelli@gmail.com",
+    "url": "https://github.com/sponticelli"
+  }
+}
